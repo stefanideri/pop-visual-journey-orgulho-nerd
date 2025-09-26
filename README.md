@@ -7,11 +7,12 @@ This section outlines the key techniques and tools used to transform the origina
 
 ### 🎨 Lighting & Composition
 
-- **Father Portrait – Lighting Test**  
+- ** Father Portrait – Lighting Test **
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
-  - ![Father Image 2](pop-visual-journey-orgulho-nerd/Papai01 pose01.jpg)
+ ![Father Image 2](pop-visual-journey-orgulho-nerd/Papai01 pose01.jpg)
+
 
 
 - **Michael Jackson – Pose & Framing**  
