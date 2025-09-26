@@ -11,7 +11,7 @@ This section outlines the key techniques and tools used to transform the origina
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
-  - ![Father Image 2](Papai01pose01.jpg)
+  - ![Father Image 2](Papai01pose01)
 
 
 
