@@ -11,7 +11,6 @@ This section outlines the key techniques and tools used to transform the origina
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
-  - ![Father Image 2](Papai01pose01)
 
 
 
@@ -56,23 +55,23 @@ This section highlights the transformation from raw captures to final edits. Sid
 
 | Version | Description |
 |--------|-------------|
-| `originals/pai1.jpg` | Cooler tones, neutral background |
-| `originals/pai2.jpg` | Warmer tones, emotional impact → **Selected** |
-| `edited/pai_final.jpg` | Final version with color grading and framing |
+| `Papai01 pose01.jpg` | Cooler tones, neutral background |
+| `Papai01 pose02.jpg` | Warmer tones, emotional impact → **Selected** |
+| `https://www.behance.net/gallery/235380587/Between-Icons-and-Emotion-A-Pop-Visual-Journey` | Final version with color grading and framing |
 
 ### Batman – Cape Reconstruction
 
 | Version | Description |
 |--------|-------------|
-| `originals/batman.jpg` | Static pose, missing cape motion |
-| `edited/batman_final.jpg` | Cape digitally rebuilt for dynamic flow |
+| `Batman03 main01.jpg` | Static pose, missing cape motion |
+| `https://www.behance.net/gallery/235380587/Between-Icons-and-Emotion-A-Pop-Visual-Journey` | Cape digitally rebuilt for dynamic flow |
 
 ### Elvis Presley – AI Refinement
 
 | Version | Description |
 |--------|-------------|
-| `originals/elvis.jpg` | Raw capture with uneven texture |
-| `edited/elvis_final.jpg` | Enhanced clarity and blended texture using AirBrush |
+| `Elvis Presley04.jpg` | Raw capture with uneven texture |
+| `edited/elvis_final.jpg](https://www.behance.net/gallery/235380587/Between-Icons-and-Emotion-A-Pop-Visual-Journey` | Enhanced clarity and blended texture using AirBrush |
 
 ## 🧵 Behind the Scenes
 
