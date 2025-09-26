@@ -7,12 +7,10 @@ This section outlines the key techniques and tools used to transform the origina
 
 ### 🎨 Lighting & Composition
 
-- **Father Portrait – Lighting Test**
+- **Father Portrait – Lighting Test**  
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
-  - ![Father Image 2](pop-visual-journey-orgulho-nerd/Papai01 pose02.jpg)
-
 
 - **Michael Jackson – Pose & Framing**  
   The statue was photographed from multiple angles to emphasize posture and depth.  
@@ -35,8 +33,8 @@ This section outlines the key techniques and tools used to transform the origina
   Prompt used:  
   ```plaintext
   Transform this vertical pixel-art image into a horizontal 16:9 version, keeping the central character and extending the background with matching style and colors.
-  ## 🖼️ Final Results
 
+ ## 🖼️ Final Results
 Here are the final compositions featured in the Behance project. Each image was carefully refined using a combination of manual editing and AI enhancement to preserve texture, emotion, and visual rhythm.
 
 - `edited/elvis_final.jpg` → Elvis Presley after AirBrush refinement and texture blending  
