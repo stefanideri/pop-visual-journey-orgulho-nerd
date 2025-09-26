@@ -11,6 +11,8 @@ This section outlines the key techniques and tools used to transform the origina
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
+  - ![Father Image 2](originals/father_image2.jpg)
+
 
 - **Michael Jackson – Pose & Framing**  
   The statue was photographed from multiple angles to emphasize posture and depth.  
