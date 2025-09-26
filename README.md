@@ -7,7 +7,8 @@ This section outlines the key techniques and tools used to transform the origina
 
 ### 🎨 Lighting & Composition
 
-- ** Father Portrait – Lighting Test **
+**Father Portrait – Lighting Test**
+
   Two versions were captured with different lighting setups.  
   - *Image 1*: Cooler tones, neutral background  
   - *Image 2*: Warmer tones, stronger emotional impact → **Selected as final**
